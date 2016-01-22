@@ -3,6 +3,7 @@ body {
   font-family: "Novecento Wide","Helvetica Neue",sans-serif;
 }
 
+
 .header {
   background-image: url("../images/payments-banner-graphic.png");
   color: white;
@@ -29,4 +30,29 @@ body {
 
 .nav li {
   display: inline;
+}
+
+.troisImages {
+  width: 100%;
+  text-align: center;
+  margin: 100px 0px;
+  
+}
+
+.img1 {
+  width: 30%;
+  display: inline-block;
+}
+
+.img2 {
+  width: 30%;
+  display: inline-block;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+
+}
+
+.img3 {
+  width: 30%;
+  display: inline-block;
 }
