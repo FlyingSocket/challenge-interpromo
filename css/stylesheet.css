@@ -1,0 +1,32 @@
+body {
+  margin: 0 auto;
+  font-family: "Novecento Wide","Helvetica Neue",sans-serif;
+}
+
+.header {
+  background-image: url("../images/payments-banner-graphic.png");
+  color: white;
+}
+
+.logo {
+  font-family: "Novecento Wide","Helvetica Neue",sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 4px;
+  line-height: 25px;
+  display: inline-block;;
+}
+
+.logo img{
+  width: 30px;
+  margin-right: 5px;
+}
+
+.nav {
+  display: inline-block;;
+  text-align: right;
+}
+
+.nav li {
+  display: inline;
+}
